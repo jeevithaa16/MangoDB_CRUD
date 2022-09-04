@@ -1,0 +1,9 @@
+Flask
+flask_cors
+flask_pymongo
+dnspython
+werkzeug
+flask-session
+pytz
+requests
+pandas
